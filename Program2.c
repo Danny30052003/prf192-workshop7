@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//USING VISUAL CODE ON MACOS
 const int MAXN = 100;
 int addValue = 0, posCode = 0, posName = 0;
 char code[MAXN][8];
