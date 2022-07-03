@@ -25,17 +25,17 @@ int main() {
             main();
             break;
         case 2:
-            printf("Selected 1!\n");
+            printf("Selected 2!\n");
             printDrinkList(name, make, volume, price);
             main();
             break;
         case 3:
-            printf("Selected 1!\n");
+            printf("Selected 3!\n");
             printDrinkBetweenV1V2(name, make, volume, price);
             main();
             break;
         case 4:
-            printf("Selected 1!\n");
+            printf("Selected 4!\n");
             sortDrinkBaseOnPriceVolume(name, make, volume, price);
             main();
             break;
